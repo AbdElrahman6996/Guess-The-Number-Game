@@ -3,7 +3,7 @@
 - 👋 Hi, I’m @AbdElrahman6996
 - 👀 I’m interested in Front End Development & Ui/UX Design
 - 🌱 This is one of my projects " Abdoshoes "  
-- 🎨 Ui Design rights : https://www.figma.com/file/ReJbOWDc0WR1uizrsgfyfQ/project?node-id=0%3A1
+- 🎨 Ui Design : @AbdElrahman6996
 - 📫 How to reach me ? 
 - 📧 Email me : abdoamir6996@gmail.com 
 - 🔮 Looking forward to create a lot of Projects together , Cheers ;) 
