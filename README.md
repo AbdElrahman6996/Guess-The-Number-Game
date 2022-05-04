@@ -18,3 +18,5 @@
 - 📱 Mobile View
 
 ![image](https://user-images.githubusercontent.com/100623881/166605801-4cfe3efd-90e0-422d-9629-d1e71c582340.png)
+![image](https://user-images.githubusercontent.com/100623881/166605899-daf179d8-4133-48e5-9313-15b73cfba483.png)
+![image](https://user-images.githubusercontent.com/100623881/166605953-53579e6c-6944-4c51-be2a-a690590595af.png)
